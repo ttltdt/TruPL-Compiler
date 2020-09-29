@@ -1,0 +1,12 @@
+program a;
+
+#this is program a;
+
+	b: int; #aabbbsss
+
+begin
+	b = 1;
+	b >1233322;
+end;
+
+
