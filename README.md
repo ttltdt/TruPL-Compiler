@@ -2,7 +2,7 @@
 
 A Compiler for TruPL Programming Language. 
 
-lexical_conventions.pdf contain list of legal lexemes is in TruPL.
+lexical_conventions.pdf contain a list of legal lexemes is in TruPL.
 
 Only the Scanner is available.
 
